@@ -119,4 +119,4 @@
 
 
 ## 📫 How to reach me:
-- ![](./img/linkedin_icon.png) [Linkedin](linkedin.com/in/fwyroy)
+- ![](./img/linkedin_icon.png) [Linkedin](https://linkedin.com/in/fwyroy)
