@@ -1,8 +1,6 @@
 ### Hi there 👋, this is Roy
 
-CUDA Developer 
-
-## 🔭 About Me
+## 🔭 Who am i ?
 - ⚡ CUDA Developer
 - 🧪 Machine Learning Engineer
 - 🎓 Msc in Big Data Technology @ [HKUST](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)
@@ -62,7 +60,7 @@ CUDA Developer
     <tbody>
             <tr> <!--  new session  -->
                 <td rowspan=7 ALIGN=CENTER>
-                <p><a href="https://www.dayta.ai/"><img src="./img/dayta.png" style="height:80px;"></a></p>
+                <p><a href="https://www.dayta.ai/"><img src="./img/dayta.png"></a></p>
                 </td>
                 <td rowspan=5 >Senior CUDA Engineer</td>
                 <td rowspan=2>2023</td>
@@ -81,7 +79,7 @@ CUDA Developer
             <tr><td>Face Detection on TRTIS (former TRITON Inference Server)</td></tr>
             <tr> <!--  new session  -->
                 <td rowspan=2 ALIGN=CENTER>
-                <p><a href="https://www.gammonconstruction.com/en/index.php/"><img src="./img/gammon.png" style="height:80px;"></a></p>
+                <p><a href="https://www.gammonconstruction.com/en/index.php/"><img src="./img/gammon.png"></a></p>
                 </td>
                 <td rowspan=2>AI Systems Engineer</td>
                 <td rowspan=2>2021</td>
@@ -90,7 +88,7 @@ CUDA Developer
             <tr><td>Real Time Fatal Zone Alert on Edge Device</td></tr>
             <tr> <!--  new session  -->
                 <td rowspan=3 ALIGN=CENTER>
-                <p><a href="https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt/"><img src="./img/hkust.png" style="height:80px;"></a></p>
+                <p><a href="https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt/"><img src="./img/hkust.png"></a></p>
                 </td>
                 <td rowspan=3>Master Degree Student</td>
                 <td rowspan=2>2022</td>
@@ -101,7 +99,7 @@ CUDA Developer
                 <td>Real Time Pedestrian Detector on Edge Device</td>
             <tr> <!--  new session  -->
                 <td rowspan=2 ALIGN=CENTER>
-                <p><a href="https://www.astri.org/"><img src="./img/astri.png" style="height:80px;"></a></p>
+                <p><a href="https://www.astri.org/"><img src="./img/astri.png"></a></p>
                 </td>
                 <td rowspan=2>Engineering Associate</td>
                 <td rowspan=2>2019</td>
@@ -110,7 +108,7 @@ CUDA Developer
             <tr><td>Data fusion on smart contract</td></tr>
             <tr> <!--  new session  -->
                 <td rowspan=1 ALIGN=CENTER>
-                <p><a href="https://www.gammonconstruction.com/en/index.php/"><img src="./img/ouhk.png" style="height:80px;"></a></p>
+                <p><a href="https://www.gammonconstruction.com/en/index.php/"><img src="./img/ouhk.png"></a></p>
                 </td>
                 <td rowspan=1>Research Assistant (pt)</td>
                 <td rowspan=1>2018</td>
