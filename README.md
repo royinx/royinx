@@ -5,6 +5,7 @@
 - 🧪 Machine Learning Engineer
 - 🎓 Msc in Big Data Technology @ [HKUST](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)
 
+
 ![Alt text](./img/wordcloud.svg)
 
 ## 🖥️ Projects
@@ -117,6 +118,10 @@
     </tbody>
 </table>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=royinx&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=royinx&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ## 📫 How to reach me:
 - ![](./img/linkedin_icon.png) [Linkedin](https://linkedin.com/in/fwyroy)
