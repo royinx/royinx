@@ -111,7 +111,7 @@
                 <td rowspan=1 ALIGN=CENTER>
                 <p><a href="https://www.gammonconstruction.com/en/index.php/"><img src="./img/ouhk.png"></a></p>
                 </td>
-                <td rowspan=1>Research Assistant (pt)</td>
+                <td rowspan=1>Research Assistant</td>
                 <td rowspan=1>2018</td>
                 <td >Real Time PPE Detector on Edge Device</td>
             </tr>
