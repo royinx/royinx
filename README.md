@@ -113,7 +113,7 @@
                 </td>
                 <td rowspan=1>Research Assistant</td>
                 <td rowspan=1>2018</td>
-                <td >Real Time PPE Detector on Edge Device</td>
+                <td >Gesture classification on EEG signals</td>
             </tr>
     </tbody>
 </table>
